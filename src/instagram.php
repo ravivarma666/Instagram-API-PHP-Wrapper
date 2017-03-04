@@ -1,6 +1,6 @@
 <?php
 
-//namespace RaviVarma666\Instagram;
+namespace RaviVarma666\Instagram;
 
 /**
  * Instagram API class
